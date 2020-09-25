@@ -118,11 +118,10 @@ class DetailSurahActivity : AppCompatActivity() {
         rvAyat.setHasFixedSize(true)
 
         //Methods get data
-        listAyat
+        listAyat()
     }
 
-    private val listAyat: Unit
-        get() {
+    private fun listAyat {
             progressDialog!!.show()
             AndroidNetworking.get(Api.URL_LIST_AYAT)
                     .addPathParameter("nomor", nomor)
