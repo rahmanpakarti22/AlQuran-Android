@@ -89,11 +89,10 @@ class ListSurahActivity : AppCompatActivity(), onSelectData {
         startLocationUpdates()
 
         //Methods get data
-        listSurah
+        listSurah()
     }
 
-    private val listSurah: Unit
-        get() {
+    private fun listSurah {
             progressDialog!!.show()
             AndroidNetworking.get(Api.URL_LIST_SURAH)
                     .setPriority(Priority.MEDIUM)
