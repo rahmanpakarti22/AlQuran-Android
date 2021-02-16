@@ -11,6 +11,7 @@ https://rivaldi48.blogspot.com/2019/04/tutorial-membuat-aplikasi-al-quran.html
 
 <img src="https://1.bp.blogspot.com/-h0Zx3gIvI3s/XxfcFj4lk7I/AAAAAAAAHdg/coTm9i9K5O8CkyoZAaIgGf8YYw7N2JqfACLcBGAsYHQ/s1600/HiShoot_20200722_132001.png" data-canonical-src="https://1.bp.blogspot.com/-h0Zx3gIvI3s/XxfcFj4lk7I/AAAAAAAAHdg/coTm9i9K5O8CkyoZAaIgGf8YYw7N2JqfACLcBGAsYHQ/s1600/HiShoot_20200722_132001.png" style="max-width:100%;">
 
+*** *If you use the Source Code, please make sure to credit and backlink to Azhar Rivaldi***
 
 ## 📄 License
 
@@ -30,4 +31,3 @@ Copyright (C) Azhar Rivaldi
     limitations under the License.
 
 ```
-***If you use the Source Code, please make sure to credit and backlink to Azhar Rivaldi***
